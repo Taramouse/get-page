@@ -56,7 +56,7 @@
         $('#output').empty();
         $('#page-output').empty();
 
-        axios.get(pageUrl)
+        axios.get(page)
           .then((res) => res.data)
           .then((data) => {
             console.log(data);
