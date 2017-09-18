@@ -1,0 +1,8 @@
+{
+  "name": "Test Page 3",
+  "id": 2,
+  "header": "Test Page Three",
+  "text": "This is a text element with some text to fill it out.",
+  "image": "image1.png",
+  "background": "#cccccc"
+}
